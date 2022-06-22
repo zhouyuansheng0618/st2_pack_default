@@ -1,15 +1,9 @@
 ---
-ref: freeipa
-name: freeipa
-description: FreeIPA Integration Pack
+ref: default
+name: default
+description: default Integration Pack
 keywords: 
-  - freeipa
-  - ipa
-  - idm
-  - redhat
-  - red
-  - hat
-  - authentication
+  - default
 version: 1.0.0
 author: Encore Technologies
 email: code@encore.tech
